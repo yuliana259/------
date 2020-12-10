@@ -59,7 +59,7 @@ class _MainPageState extends State<MainPage> {
                       controller: _amountYearsController,
                       textAlign: TextAlign.center,
                       decoration: InputDecoration(
-                          hintText: 'Количество лет',
+                          hintText: 'Введите количество лет',
                           focusedBorder: OutlineInputBorder(
                               borderRadius:
                                   BorderRadius.all(Radius.circular(10)),
